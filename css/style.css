@@ -1,0 +1,32 @@
+nav{
+    background-color: #6d9886;
+    height: 70px;
+    width: 100%;
+    text-align: center;
+    padding-top: 50px;
+
+}
+
+nav a {
+    font-size: 2em;
+    color: #f6f6f6;
+    text-decoration: none;
+    padding: 0 15px 0 15px;
+    font-weight: bold;
+    float: end;
+
+}
+
+footer {
+    height: 100px;
+    padding-top: 10px;
+    color: #d9cab3;
+}
+
+footer a {
+
+    text-decoration: none;
+    color:#f6f6f6;
+
+}
+
